@@ -4,7 +4,7 @@
 		 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.weather.web</groupId>
-    <artifactId>WeatherForecast</artifactId>
+    <artifactId>weather-forecast</artifactId>
     <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>java-web-project Maven Webapp</name>
@@ -82,7 +82,7 @@
         <repository>
             <id>github</id>
             <name>GitHub 1235chandani1235 Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/1235chandani1235/WeatherForecast</url>
+            <url>https://maven.pkg.github.com/1235chandani1235</url>
         </repository>
     </distributionManagement>
 
