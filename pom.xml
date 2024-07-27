@@ -77,6 +77,15 @@
         </dependency>
 
     </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub 1235chandani1235 Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/1235chandani1235/WeatherForecast</url>
+        </repository>
+    </distributionManagement>
+
     <build>
         <finalName>java-web-project</finalName>
         <plugins>
