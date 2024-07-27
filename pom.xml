@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.weather.web</groupId>
     <artifactId>weather-forecast</artifactId>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>java-web-project Maven Webapp</name>
     <url>http://maven.apache.org</url>
@@ -87,7 +87,7 @@
     </distributionManagement>
 
     <build>
-        <finalName>java-web-project</finalName>
+        <finalName>weatherForecast</finalName>
         <plugins>
             <!-- http://www.eclipse.org/jetty/documentation/current/jetty-maven-plugin.html -->
             <plugin>
